@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "year": 1865,
+        "genre": "Fantasy",
+        "language": "English",
+        "path": "books/alices_adventure_in_wonderland.txt"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "year": 1897,
+        "genre": "Horror",
+        "language": "English",
+        "path": "books/dracula.txt"
+    }
+]
